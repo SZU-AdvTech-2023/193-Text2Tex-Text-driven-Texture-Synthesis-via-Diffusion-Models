@@ -1,0 +1,6 @@
+@article{REPO193,
+    author = "Chen, Dave Zhenyu and Siddiqui, Yawar and Lee, Hsin-Ying and Tulyakov, Sergey and Nie{\ss}ner, Matthias",
+    journal = "arXiv preprint arXiv:2303.11396",
+    title = "{Text2Tex: Text-driven Texture Synthesis via Diffusion Models}",
+    year = "2023"
+}
